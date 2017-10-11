@@ -1,0 +1,20 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am trying npm.",
+  "main": "node1.js",
+  "scripts": {
+    "start": "node Twitterbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quote"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "movie-quotes": "^1.0.0",
+    "twit": "^2.1.1",
+    "twitter": "^1.7.1"
+  }
+}
